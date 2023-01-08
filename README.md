@@ -41,7 +41,7 @@ This repository reflects the 5th challenge given to students in the Monash Unive
 
 The following screenshot demonstrates the application functionality:
 
-![day planner demo](./assets/screen-capture.JPG)
+![day planner demo](./assets/website-screenshot.JPG)
 
 
 
