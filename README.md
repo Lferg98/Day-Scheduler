@@ -33,13 +33,16 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+## Introduction
 
+This repository reflects the 5th challenge given to students in the Monash University Coding Bootcamp.
 
 ## Mock-Up
 
-The following animation demonstrates the application functionality:
+The following screenshot demonstrates the application functionality:
 
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
+![day planner demo](./assets/screen-capture.JPG)
+
 
 
 ## Grading Requirements
