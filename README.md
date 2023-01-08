@@ -43,6 +43,8 @@ The following screenshot demonstrates the application functionality:
 
 ![day planner demo](./assets/website-screenshot.JPG)
 
+Link to the live website : https://lferg98.github.io/Day-Scheduler/
+
 
 
 ## Grading Requirements
